@@ -33,7 +33,7 @@ A regex which contains the exact text that we wish to match is called a *literal
 
 ## The Escape Character
 
-Throughout this guide we'll see many examples of symbols which have regex functionality, also called regex [*metacharacters*](https://en.wikipedia.org/wiki/Metacharacter), but may also appear in text which we want to match. For example, in the [Wildcards] section, we'll see that the period, `.`, symbol has regex functionality. If we wish to match a symbol in text without invoking its regex functionality, then we need to precede it with the *escape character*, `\`.
+Throughout this guide we'll see many examples of symbols which have regex functionality, also called regex [*metacharacters*](https://en.wikipedia.org/wiki/Metacharacter), but may also appear in text which we want to match. For example, in the [Wildcards](#wildcards) section, we'll see that the period, `.`, symbol has regex functionality. If we wish to match a symbol in text without invoking its regex functionality, then we need to precede it with the *escape character*, `\`.
 
 ## Alternation
 
